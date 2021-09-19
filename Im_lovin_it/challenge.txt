@@ -1,0 +1,3 @@
+丸、菊田、鍵谷、古城、田中豊、重信、原、戸郷、高梨、大竹 mod 26
+
+PHL, AGO, IRQ, AFG, GRC, LUX, SEN, TUR, KOR, GBR mod 26
